@@ -1,0 +1,11 @@
+Model Information:
+* title:	Phil
+* source:	https://sketchfab.com/3d-models/phil-aa0481a5d16a427ab7eb9075ee9fe473
+* author:	calvinwil5782 (https://sketchfab.com/calvinwil5782)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Phil" (https://sketchfab.com/3d-models/phil-aa0481a5d16a427ab7eb9075ee9fe473) by calvinwil5782 (https://sketchfab.com/calvinwil5782) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

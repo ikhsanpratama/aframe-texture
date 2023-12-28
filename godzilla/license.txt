@@ -1,0 +1,8 @@
+Model Information:
+* title:	PS4 Godzilla Retexture
+* source:	https://sketchfab.com/3d-models/ps4-godzilla-retexture-b6fed86c25244933ad22e3f127297a75
+* author:	CGreature (https://sketchfab.com/CGreature)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

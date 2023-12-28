@@ -1,0 +1,8 @@
+Model Information:
+* title:	"Preservons la Creation" (giant mural)
+* source:	https://sketchfab.com/3d-models/preservons-la-creation-giant-mural-bb16a586065447f88f6e9c07b4ad58a7
+* author:	Austin Beaulier (https://sketchfab.com/Austin.Beaulier)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
